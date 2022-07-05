@@ -5,4 +5,6 @@ func main() {
 	// conjunto theta, Big O, o, ômega, pequeno ômega.
 	// Conjunto theta
 	//
+	
+	// Analise anotadas no notion
 }
